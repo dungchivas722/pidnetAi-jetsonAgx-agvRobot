@@ -30,7 +30,7 @@ updating
 ### 8 Demo:
 - From old data video : [GD2->G2_UET_VNU_VN](https://www.youtube.com/watch?v=FAlXWG1bBJQ)
 #### Segmentation :
-https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/segment.gif
+![](https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/segment.gif)
 #### Road Segmentation:
 https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/road%20segmentation.gif
 #### Planning :
