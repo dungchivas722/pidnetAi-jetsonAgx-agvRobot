@@ -11,11 +11,10 @@
 #### Processor for car :
 ##### - NVIDIA Jetson Xavier Developer Kit
 ## 2 Venv neeeded :
-#### - 
-Python lib basic in files .py
+#### - Python lib basic in files .py
 #### - Cuda toolkit 11.1 ( support for 3060 , when run gpu you can check support version : [here](https://developer.nvidia.com/cuda-gpus) )
-#### - pytorch 1.8.1+cu11.1 ( or [here](https://pytorch.org/get-started/previous-versions/) )
-#### - cuDNN for Cuda 11x ( or check [here](https://gist.github.com/ax3l/9489132) )
+#### - pytorch 1.8.1+cu11.1 ( or last version [here](https://pytorch.org/get-started/previous-versions/) )
+#### - cuDNN for Cuda 11x ( or check version support [here](https://gist.github.com/ax3l/9489132) )
 ## 3 Model :
 ### Pidnet-S ( [Source] (https://gist.github.com/ax3l/9489132) )
 ## 4 Dataset :
