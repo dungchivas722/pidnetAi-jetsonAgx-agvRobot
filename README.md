@@ -21,3 +21,20 @@ Python lib basic in files .py
 ## 4 Dataset :
 ### - Cityscapes
 ### - Dataset of users ( link : [here](eror2) - updating )
+### 5 Trainning :
+updating
+### 6 User:
+updating
+### 7 Measurement parameters :
+updating
+### 8 Demo:
+- From old data video : [GD2->G2_UET_VNU_VN](https://www.youtube.com/watch?v=FAlXWG1bBJQ)
+#### Segmentation :
+https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/segment.gif
+#### Road Segmentation:
+https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/road%20segmentation.gif
+#### Planning :
+https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/plan.gif
+#### Output:
+https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/4031893_CreateAgif.gif
+# UPDATING :  MERGE STEPS AND RUNTIME IN CAMERA, CAMERA COMPATIBLING FOR AGV ROBOT
