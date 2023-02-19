@@ -32,9 +32,9 @@ updating
 #### Segmentation :
 ![](https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/segment.gif)
 #### Road Segmentation:
-https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/road%20segmentation.gif
+![](https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/road%20segmentation.gif)
 #### Planning :
-https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/plan.gif
+![](https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/plan.gif)
 #### Output:
-https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/4031893_CreateAgif.gif
+![](https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/4031893_CreateAgif.gif)
 # UPDATING :  MERGE STEPS AND RUNTIME IN CAMERA, CAMERA COMPATIBLING FOR AGV ROBOT
