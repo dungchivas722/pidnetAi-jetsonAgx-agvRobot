@@ -36,4 +36,3 @@ updating
 ![](https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/plan.gif)
 #### Output:
 ![](https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/4031893_CreateAgif.gif)
-# UPDATING :  MERGE STEPS AND RUNTIME IN CAMERA, CAMERA COMPATIBLING FOR AGV ROBOT
