@@ -1,4 +1,5 @@
 # Improved Pidnet AI for AGV Car in Realtime 
+![](https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/anh.jpg)
 ## 1 Processor AI :
 #### Trainning :
 ##### - CPU: I7 12700K ( have overclocking )
