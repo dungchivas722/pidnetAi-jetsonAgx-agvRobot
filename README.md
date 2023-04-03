@@ -2,8 +2,8 @@
 ![](https://github.com/dungchivas722/pidnetAi-jetsonAgx-agvRobot/blob/main/image/anh.jpg)
 ## 1 Processor AI :
 #### Trainning :
-##### - CPU: I7 12700K ( have overclocking )
-##### - GPU: 3060 12Gb
+##### - CPU: I9 13900K ( have overclocking )
+##### - GPU: 3090 24gb
 ##### - Ddr4 32gb 4600mhz
 #### Data collection :
 ##### - Camera Zed 2 AI
