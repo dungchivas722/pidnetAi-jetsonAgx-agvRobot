@@ -5,7 +5,7 @@
 ##### - GPU: 3060 12Gb
 ##### - Ddr4 32gb 4600mhz
 #### Data collection :
-##### - Intel realsense d435i
+##### - Camera Zed 2 AI
 ##### - DIY robot frame :
 ###### Picture - updating
 #### Processor for car :
